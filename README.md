@@ -3,16 +3,18 @@
 
 For this project, I used the **OpenWeatherMap API** 🌦️, specifically the One Call API, to fetch real-time weather data. This API provides comprehensive weather information, including temperature 🌡️, humidity 💧, and weather conditions ☁️, for any given location.
 
-To display the weather data, I developed a simple web application using **Flask** 🍃, a lightweight Python framework. The app allows users to enter the name of a city in a form, and upon submission, it displays the current weather details, such as temperature and weather description, for that city.
+To display the weather data, I developed a simple web application using **Flask**, a lightweight Python framework. The app allows users to enter the name of a city in a form, and upon submission, it displays the current weather details, such as temperature and weather description, for that city.
 
 ![Welcome](assets/welcomingPage.gif)
 
+### **Tech Stack Used** ⚙️
 
+- **Frontend**: CSS, HTML 💻  
+- **Backend**: Flask, Python ⚙️
 
 ## Acknowledgements
 
  - [OpenWeatherMAP](https://openweathermap.org/s) : sign up to get an API key and a free trial
-
 
 
 ## Run Locally
