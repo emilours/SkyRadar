@@ -14,7 +14,7 @@ To display the weather data, I developed a simple web application using **Flask*
 
 ## Acknowledgements
 
- - [OpenWeatherMAP](https://openweathermap.org/s) : sign up to get an API key and a free trial
+ - [OpenWeatherMAP](https://openweathermap.org/) : sign up to get an API key and a free trial
 
 
 ## Run Locally
