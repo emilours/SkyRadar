@@ -30,7 +30,7 @@ To display the weather data, I developed a simple web application using **Flask*
 ```bash
     python3 -m venv .venv
     source .venv/bin/activate
-    pip install flask
+    pip install Flask
     pip install requests
 ```
 
