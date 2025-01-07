@@ -32,6 +32,7 @@ To display the weather data, I developed a simple web application using **Flask*
     source .venv/bin/activate
     pip install Flask
     pip install requests
+    pip install python-dotenv
 ```
 
 **Create .env and fill it with you API key:**
