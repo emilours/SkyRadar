@@ -22,7 +22,7 @@ To display the weather data, I developed a simple web application using **Flask*
 **Clone the project:**
 
 ```bash
-  git clone git@github.com:emilours/Weather_app.git
+  git clone git@github.com:emilours/SkyRadar.git
 ```
 
 **Install dependencies:**
